@@ -1,4 +1,4 @@
-# Navigoat Extended
+# Navigoat
 
 Fork of https://github.com/sp1d3rb0y/Navigoat to add support for Android 13+
 
